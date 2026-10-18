@@ -3480,5 +3480,23 @@
     "github_repo": "NGrant92/sigil-and-outlands-5e2024",
     "repo_url": "https://ngrant92.github.io/sigil-and-outlands-5e2024/",
     "has_system": false
+  },
+  {
+    "name": "Deep-Crow-Life-Stages-Tethered-Banshee-Race",
+    "description": "Statblocks for deep crow stages of hatchlings, young, and teen. Also a homebrew banshee race because my player wanted to be a character from limbus or something.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "race",
+      "monsters"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "bananaramen670/Deep-Crow-Life-Stages-Tethered-Banshee-Race",
+    "repo_url": "https://bananaramen670.github.io/Deep-Crow-Life-Stages-Tethered-Banshee-Race/",
+    "has_system": false
   }
 ]
